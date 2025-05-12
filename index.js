@@ -84,7 +84,7 @@ function saveData() {
   const connToken = "90934664|-31949205335754090|90956087";
   const dbName = "SCHOOL-DB";
   const relName = "STUDENT-TABLE";
-  const baseUrl = "https://api.login2explore.com:5577";
+  const baseUrl = "http://api.login2explore.com:5577";
   const apiEndPoint = "/api/iml";
   const apiEndPoint2 = "/api/irl";
 
@@ -106,7 +106,7 @@ function checkRollNoExists() {
   const connToken = "90934664|-31949205335754090|90956087";
   const dbName = "SCHOOL-DB";
   const relName = "STUDENT-TABLE";
-  const baseUrl = "https://api.login2explore.com:5577";
+  const baseUrl = "http://api.login2explore.com:5577";
 
   const apiEndPoint2 = "/api/irl";
   let rollNo = $("#rollNo").val().trim();
@@ -158,7 +158,7 @@ function changeData() {
   const connToken = "90934664|-31949205335754090|90956087";
   const dbName = "SCHOOL-DB";
   const relName = "STUDENT-TABLE";
-  const baseUrl = "https://api.login2explore.com:5577";
+  const baseUrl = "http://api.login2explore.com:5577";
   const apiEndPoint = "/api/iml";
 
   $("#change").prop("disabled", true);
