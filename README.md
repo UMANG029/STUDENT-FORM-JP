@@ -4,7 +4,7 @@ This is a simple web-based application to manage student records. It uses JSONPo
 
 ---
 
-## 📑 Description
+## TABLE OF DESCRIPTION
 
 | Feature              | Details                                                                 |
 |----------------------|-------------------------------------------------------------------------|
