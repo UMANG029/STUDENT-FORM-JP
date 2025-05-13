@@ -4,17 +4,18 @@ This is a simple web-based application to manage student records. It uses JSONPo
 
 ---
 
-## Description
+## 📑 Description
 
-This project is a minimalistic student data entry system that demonstrates how to interact with JPDB (JsonPowerDB) using REST API calls in JavaScript. It allows users to:
-- Add new student records
-- Check if a student already exists
-- Update student details
-- Reset the form to default state
-
-The interface is form-based and user-friendly, designed for quick testing and learning about API-based applications.
+| Feature              | Details                                                                 |
+|----------------------|-------------------------------------------------------------------------|
+| 📋 Project Title     | Student Enrollment Form using JPDB API                                  |
+| 🧾 Description       | A responsive web form that lets users enter, save, update, and reset student data using JPDB API. |
+| 🧠 Technologies Used | HTML, CSS (Bootstrap), JavaScript (jQuery), JPDB API                     |
+| 📡 Backend           | JsonPowerDB (JPDB)                                                       |
+| 🎯 Functionalities   | Data entry, validation, fetch by roll number, edit/update data          |
 
 ---
+
 
 ## Benefits of using JsonPowerDB
 
@@ -58,6 +59,10 @@ Initial release with full functionality: add, check, update, and reset student d
 Here is how the form looks in the browser:
 
 ![Screenshot 2025-05-12 232223](https://github.com/user-attachments/assets/dd1a0f2e-9857-40f7-852e-b238f33291b6)
+![Screenshot 2025-05-13 091116](https://github.com/user-attachments/assets/09357841-3b72-4f49-9b03-de856f6f51f8)
+
+DATABASE:
+![Screenshot 2025-05-13 092521](https://github.com/user-attachments/assets/10fa8b6c-7963-42fa-b37a-1db4b8be43e3)
 
 ## Project Status
 
